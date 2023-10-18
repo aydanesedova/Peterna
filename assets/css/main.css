@@ -5,44 +5,6 @@
   color: white;
 }
 
-.navbar {
-  width: 100%;
-  height: 50px;
-}
-.navbar .container-fluid {
-  background-color: black;
-  height: 50px;
-}
-.navbar .container-fluid .peterna {
-  width: 342px;
-  height: 25px;
-}
-.navbar .container-fluid a {
-  color: #ffffff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: "Open Sans", sans-serif;
-  font-size: 27px;
-  line-height: 20px;
-  font-weight: 610;
-}
-.navbar .nav1 {
-  width: 450px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.navbar .nav1 a {
-  font-size: 15px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #ffffff;
-  line-height: 20px;
-  font-family: "Open Sans", sans-serif;
-}
-
 #con {
   width: 100%;
   height: 658px;
@@ -286,6 +248,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-color: #D8D8D8;
+  padding-left: 1px;
 }
 #sectionfour .row .col-4 .category .price {
   background-color: #1F8A63;
