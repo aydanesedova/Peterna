@@ -139,19 +139,16 @@ body {
   width: 100%;
   height: 230px;
 }
-#secthree .container .col-12 {
+#secthree .container .row {
   width: 100%;
 }
-#secthree .container .col-12 .row {
-  width: 100%;
-}
-#secthree .container .col-12 .row .col-8 {
+#secthree .container .row .col-8 {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 60%;
 }
-#secthree .container .col-12 .row .col-8 .sectifrt {
+#secthree .container .row .col-8 .sectifrt {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -161,21 +158,21 @@ body {
   color: white;
   gap: 40px;
 }
-#secthree .container .col-12 .row .col-8 .sectifrt h3 {
+#secthree .container .row .col-8 .sectifrt h3 {
   font-size: 60px;
   line-height: 30px;
 }
-#secthree .container .col-12 .row .col-8 .sectifrt h4 {
+#secthree .container .row .col-8 .sectifrt h4 {
   font-size: 22px;
   line-height: 40px;
 }
-#secthree .container .col-12 .row .col-4 {
+#secthree .container .row .col-4 {
   display: flex;
   justify-content: center;
   align-items: center;
   width: 40%;
 }
-#secthree .container .col-12 .row .col-4 .sectifrt {
+#secthree .container .row .col-4 .sectifrt {
   width: 100%;
   height: 230px;
   color: white;
@@ -185,11 +182,11 @@ body {
   align-items: center;
   flex-direction: column;
 }
-#secthree .container .col-12 .row .col-4 .sectifrt h3 {
+#secthree .container .row .col-4 .sectifrt h3 {
   font-size: 60px;
   line-height: 30px;
 }
-#secthree .container .col-12 .row .col-4 .sectifrt h4 {
+#secthree .container .row .col-4 .sectifrt h4 {
   font-size: 22px;
   line-height: 40px;
 }
@@ -329,26 +326,23 @@ body {
 #sectionfive .container {
   width: 100%;
 }
-#sectionfive .container .col-12 {
+#sectionfive .container .row {
   width: 100%;
 }
-#sectionfive .container .col-12 .row {
-  width: 100%;
-}
-#sectionfive .container .col-12 .row .gap {
+#sectionfive .container .row .gap {
   display: flex;
   gap: 50px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-#sectionfive .container .col-12 .row h3 {
+#sectionfive .container .row h3 {
   font-family: "Open Sans", sans-serif;
   font-size: 60px;
   line-height: 30px;
   font-weight: 900;
 }
-#sectionfive .container .col-12 .row h4 {
+#sectionfive .container .row h4 {
   font-family: "Open Sans", sans-serif;
   font-size: 22px;
   line-height: 40px;
